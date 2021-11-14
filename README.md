@@ -1,6 +1,6 @@
 ### Hello my name is Hannah Noelia, everybody tell me Hannah Chan  
 
-[![Personal Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://143.244.191.139:8081/)
+[![Personal Website](https://img.shields.io/static/v1?label=Personal%20Portfolio&message=OnLine&color=success&style=for-the-badge)](http://143.244.191.139:8081/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## Full Stack JavaScript Web Developer
@@ -10,24 +10,30 @@
 - ⚡ Fun fact: I love programming and I love play Halo 6
 
 ### My social networks:
-<a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
+- <a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
   <img align="left" alt="LinkdeIN" width="22px" src="./icons/linkedin_icon.png" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
+   LinkedIn
+  </a>
+- <a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
   <img align="left" alt="Whatsapp" width="22px" src="./icons/whatsapp_icon.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/hannah.n.chan">
+  Whatsapp
+  </a>
+- <a target="_blank" href="https://www.instagram.com/hannah.n.chan">
   <img align="left" alt="Instagram" width="22px" src="./icons/instagram_icon.svg" />
-</a>
-<a target="_blank" href="https://dev.to/hannahchan">
-  <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.svg" />
-</a>
-<a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
+  Instagram
+  </a>
+- <a target="_blank" href="https://dev.to/hannahchan">
+  <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />
+  Dev to
+  </a>
+- <a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="./icons/google_icon.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/hannah.n.chan">
+  Gmail
+  </a>
+- <a target="_blank" href="https://www.facebook.com/hannah.n.chan">
   <img align="left" alt="Facebook" width="22px" src="./icons/facebook_icon.svg" />
-</a>
+  Facebook
+  </a>
 
 <br />
 
@@ -51,6 +57,4 @@
 
 <br />
 <br />
-
----
 
