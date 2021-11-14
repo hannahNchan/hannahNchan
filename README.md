@@ -64,12 +64,13 @@
 
 ---
 
-<img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />### YouTube Channel
+### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-### Blog posts
+### <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
