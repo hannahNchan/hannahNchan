@@ -34,6 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How to build a smoothly animated ToDo app with React Native, Expo, Reanimated, NativeBase, and Moti](https://www.youtube.com/watch?v=k2h7usLLBhY)
+- [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+- [I built a minimal gaming &amp; dev PC with ZX-1 and RTX 3070](https://www.youtube.com/watch?v=a4CqHh233cM)
+- [How to build a Markdown editor using Electron, ReactJS, Vite, CodeMirror, and Remark](https://www.youtube.com/watch?v=gxBis8EgoAg)
+- [Lubing my Keychron K2V2 to get a better feel and sound](https://www.youtube.com/watch?v=-UW_c8VT2ZE)
 <!-- YOUTUBE:END -->
 
 ---
