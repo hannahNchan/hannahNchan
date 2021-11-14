@@ -9,29 +9,6 @@
 - 🥅 2021 Goals: Portfolio / CMS
 - ⚡ Fun fact: I love programming and I love play Halo 6
 
-### My social networks:
-<a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
-  <img align="left" alt="LinkdeIN" width="22px" src="./icons/linkedin_icon.png" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
-  <img align="left" alt="Whatsapp" width="22px" src="./icons/whatsapp_icon.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/hannah.n.chan">
-  <img align="left" alt="Instagram" width="22px" src="./icons/instagram_icon.svg" />
-</a>
-<a target="_blank" href="https://dev.to/hannahchan">
-  <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />
-</a>
-<a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="./icons/google_icon.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/hannah.n.chan">
-  <img align="left" alt="Facebook" width="22px" src="./icons/facebook_icon.svg" />
-</a>
-<a target="_blank" href="https://www.youtube.com/channel/UCYCwiRVgRfiDQKLw8iztFXA">
-  <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />
-</a>
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -70,3 +47,26 @@
 |  GitHub Stadistics      | Top Languages |
 |:-:|:-:|
 | [![Hannah Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahNchan&show_icons=true&title_color=D4367A&text_color=007CB8&icon_color=A35776&bg_color=C3E1EE)](https://github.com/anuraghazra/github-readme-stats)      | [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahNchan)](https://github.com/anuraghazra/github-readme-stats)       |
+
+### My social networks:
+<a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
+  <img align="left" alt="LinkdeIN" width="22px" src="./icons/linkedin_icon.png" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
+  <img align="left" alt="Whatsapp" width="22px" src="./icons/whatsapp_icon.png" />
+</a>
+<a target="_blank" href="https://www.instagram.com/hannah.n.chan">
+  <img align="left" alt="Instagram" width="22px" src="./icons/instagram_icon.svg" />
+</a>
+<a target="_blank" href="https://dev.to/hannahchan">
+  <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />
+</a>
+<a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="./icons/google_icon.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/hannah.n.chan">
+  <img align="left" alt="Facebook" width="22px" src="./icons/facebook_icon.svg" />
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCYCwiRVgRfiDQKLw8iztFXA">
+  <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />
+</a>
