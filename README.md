@@ -10,36 +10,27 @@
 - ⚡ Fun fact: I love programming and I love play Halo 6
 
 ### My social networks:
-- <a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
+<a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
   <img align="left" alt="LinkdeIN" width="22px" src="./icons/linkedin_icon.png" />
-   LinkedIn
-  </a>
-- <a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
   <img align="left" alt="Whatsapp" width="22px" src="./icons/whatsapp_icon.png" />
-  Whatsapp
-  </a>
-- <a target="_blank" href="https://www.instagram.com/hannah.n.chan">
+</a>
+<a target="_blank" href="https://www.instagram.com/hannah.n.chan">
   <img align="left" alt="Instagram" width="22px" src="./icons/instagram_icon.svg" />
-  Instagram
-  </a>
-- <a target="_blank" href="https://dev.to/hannahchan">
+</a>
+<a target="_blank" href="https://dev.to/hannahchan">
   <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />
-  Dev to
-  </a>
-- <a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
+</a>
+<a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="./icons/google_icon.svg" />
-  Gmail
-  </a>
-- <a target="_blank" href="https://www.facebook.com/hannah.n.chan">
+</a>
+<a target="_blank" href="https://www.facebook.com/hannah.n.chan">
   <img align="left" alt="Facebook" width="22px" src="./icons/facebook_icon.svg" />
-  Facebook
-  </a>
-- <a target="_blank" href="https://www.youtube.com/channel/UCYCwiRVgRfiDQKLw8iztFXA">
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCYCwiRVgRfiDQKLw8iztFXA">
   <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />
-  YouTube Channel
-  </a>
-
-<br />
+</a>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
