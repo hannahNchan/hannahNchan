@@ -76,5 +76,7 @@
 
 ---
 
-### <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub Stadistics <br/>
+
 [![Hannah Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahNchan&show_icons=true&title_color=D4367A&text_color=007CB8&icon_color=A35776&bg_color=C3E1EE)](https://github.com/anuraghazra/github-readme-stats)
+
