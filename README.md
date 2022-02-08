@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [I&#39;ve built a 3D holographic terminal w/ Looking Glass Portrait and Hyper](https://www.youtube.com/watch?v=y6mRqhR49aI)
 - [Setting up new M1 Max MacBook Pro - Apps that I use for my app dev](https://www.youtube.com/watch?v=RNqDkF17ogY)
 - [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM)
 - [How to build a smoothly animated ToDo app with React Native, Expo, Reanimated, NativeBase, and Moti](https://www.youtube.com/watch?v=k2h7usLLBhY)
 - [How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js](https://www.youtube.com/watch?v=bSMZgXzC9AA)
-- [I built a minimal gaming &amp; dev PC with ZX-1 and RTX 3070](https://www.youtube.com/watch?v=a4CqHh233cM)
 <!-- YOUTUBE:END -->
 
 ---
