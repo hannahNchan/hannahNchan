@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How to build Gmail-like UI with React Native [at a Zen temple Koshoji]](https://www.youtube.com/watch?v=w-M9UFHLAl0)
 - [Behind the scenes: How I film and create typing chat bubble effect in videos](https://www.youtube.com/watch?v=zu_vqAWHy_E)
 - [How I built a software agency website with Next.js + Tailwind CSS &lpar;in nature&rpar;](https://www.youtube.com/watch?v=GznmPACXBlY)
 - [How to take notes in Markdown efficiently with Inkdrop](https://www.youtube.com/watch?v=-qBavwqc_mY)
 - [I&#39;ve built a 3D holographic terminal w/ Looking Glass Portrait, Three.js, and Hyper](https://www.youtube.com/watch?v=y6mRqhR49aI)
-- [Setting up new M1 Max MacBook Pro - Apps that I use for my app dev](https://www.youtube.com/watch?v=RNqDkF17ogY)
 <!-- YOUTUBE:END -->
 
 ---
