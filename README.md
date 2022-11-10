@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How to build animated &amp; responsive tablet UIs with React Native &lpar;at the lakeside&rpar;](https://www.youtube.com/watch?v=JU4VBbe23jg)
 - [Dev as Life Q&amp;A - Code, life, YouTube, solopreneurship, skills, etc.](https://www.youtube.com/watch?v=NzQnZqTGtwc)
 - [How to create a &#39;What I Use&#39; blog with Astro and Tailwind CSS &lpar;at a hotel lounge&rpar;](https://www.youtube.com/watch?v=3_JE76PKBWE)
 - [Set up Neovim on a new M2 MacBook Air for coding React, TypeScript, Tailwind CSS, etc.](https://www.youtube.com/watch?v=ajmK0ZNcM4Q)
 - [For beginners: How to create a &#39;link in bio&#39; page for Instagram &lpar;No frameworks&rpar;](https://www.youtube.com/watch?v=u71pHOyvBp0)
-- [How to build Gmail-like UI with React Native [at a Zen temple Koshoji]](https://www.youtube.com/watch?v=w-M9UFHLAl0)
 <!-- YOUTUBE:END -->
 
 ---
