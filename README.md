@@ -34,7 +34,7 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
-- [How to build a transcription &amp; translation tool using OpenAI, ChatGPT, Radix UI, Stitches, Next.js](https://www.youtube.com/watch?v=UNGi144eVbI)
+- [Boost your skills with ChatGPT: Creating a transcription and translation tool using OpenAI](https://www.youtube.com/watch?v=UNGi144eVbI)
 - [[playlist] Melodies for coding | Focus &amp; Chill](https://www.youtube.com/watch?v=VUVPkoByTn4)
 - [How to create Ghibli-style trees with three.js](https://www.youtube.com/watch?v=IGK6eceWyU4)
 - [Let&#39;s learn the basics of Vim together!](https://www.youtube.com/watch?v=XTGABtNh2EY)
