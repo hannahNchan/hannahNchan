@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How I take tech notes as a note app author](https://www.youtube.com/watch?v=rjOuCFrs584)
 - [Boost your skills with ChatGPT: Creating a transcription and translation tool using OpenAI](https://www.youtube.com/watch?v=UNGi144eVbI)
 - [[playlist] Melodies for coding | Focus &amp; Chill](https://www.youtube.com/watch?v=VUVPkoByTn4)
 - [How to create Ghibli-style trees with three.js](https://www.youtube.com/watch?v=IGK6eceWyU4)
 - [Let&#39;s learn the basics of Vim together!](https://www.youtube.com/watch?v=XTGABtNh2EY)
-- [How to build animated &amp; responsive tablet UIs with React Native &lpar;at the lakeside&rpar;](https://www.youtube.com/watch?v=JU4VBbe23jg)
 <!-- YOUTUBE:END -->
 
 ---
