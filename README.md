@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How to design a beautiful Neovim theme with HSL colors in Lua - NeovimConf 2023](https://www.youtube.com/watch?v=EJLrssH1ip0)
 - [Effective Neovim setup for web development towards 2024](https://www.youtube.com/watch?v=fFHlfbKVi30)
 - [How I take tech notes as a note app author](https://www.youtube.com/watch?v=rjOuCFrs584)
 - [Boost your skills with ChatGPT: Creating a transcription and translation tool using OpenAI](https://www.youtube.com/watch?v=UNGi144eVbI)
 - [[playlist] Melodies for coding | Focus &amp; Chill](https://www.youtube.com/watch?v=VUVPkoByTn4)
-- [How to create Ghibli-style trees with three.js](https://www.youtube.com/watch?v=IGK6eceWyU4)
 <!-- YOUTUBE:END -->
 
 ---
