@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [Aesthetic desk makeover: My cozy desk setup for app development 2024](https://www.youtube.com/watch?v=rnjyMpoltLo)
 - [My strategy to survive the generative AI era as an indie developer](https://www.youtube.com/watch?v=kSIeIR8s1nM)
 - [How to design a beautiful Neovim theme with HSL colors in Lua - NeovimConf 2023](https://www.youtube.com/watch?v=EJLrssH1ip0)
 - [Effective Neovim setup for web development towards 2024](https://www.youtube.com/watch?v=fFHlfbKVi30)
 - [How I take tech notes as a note app author](https://www.youtube.com/watch?v=rjOuCFrs584)
-- [Boost your skills with ChatGPT: Creating a transcription and translation tool using OpenAI](https://www.youtube.com/watch?v=UNGi144eVbI)
 <!-- YOUTUBE:END -->
 
 ---
