@@ -34,7 +34,7 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
-- [Learn with me - HTMX and HonoJS](https://www.youtube.com/watch?v=hMcE6E8JjXA)
+- [Understanding HTMX and HonoJS in less than an hour](https://www.youtube.com/watch?v=hMcE6E8JjXA)
 - [Hacking the new bridgeless architecture of React Native &lpar;as of 0.73&rpar; to boost my app performance](https://www.youtube.com/watch?v=fFz034KJbWo)
 - [Desk makeover: My cozy desk setup for app development 2024](https://www.youtube.com/watch?v=rnjyMpoltLo)
 - [My strategy to survive the generative AI era as an indie developer](https://www.youtube.com/watch?v=kSIeIR8s1nM)
