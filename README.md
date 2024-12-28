@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/watch?v=YIfE39PFlNg)
 - [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/watch?v=Ecq2kcubTnY)
 - [Coding in nature 🏕️🧑‍💻](https://www.youtube.com/watch?v=Bp2atZL_tKI)
 - [How to build a smoothly animated table of contents &lpar;by a bonfire🔥&rpar; w/ Bun, Framer Motion, Zustand](https://www.youtube.com/watch?v=lWu-w3p1HUI)
 - [Desk makeover: My cozy desk setup for app development](https://www.youtube.com/watch?v=WRwRS4cJ9YM)
-- [Effective Neovim setup for web development](https://www.youtube.com/watch?v=fdrD19qk7sk)
 <!-- YOUTUBE:END -->
 
 ---
