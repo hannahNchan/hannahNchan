@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [Coding in nature 🏕️🧑‍💻](https://www.youtube.com/watch?v=Bp2atZL_tKI)
+- [How to build a smoothly animated table of contents &lpar;by a bonfire🔥&rpar; w/ Bun, Framer Motion, Zustand](https://www.youtube.com/watch?v=lWu-w3p1HUI)
+- [Desk makeover: My cozy desk setup for app development](https://www.youtube.com/watch?v=WRwRS4cJ9YM)
+- [Effective Neovim setup for web development](https://www.youtube.com/watch?v=fdrD19qk7sk)
 - [How I got a 3% churn rate after doubling my SaaS price to $10/month](https://www.youtube.com/watch?v=FHZIjxw4Y9c)
-- [How to build a smoothly animated table of contents &lpar;by a bonfire🔥&rpar; w/ Bun, Framer Motion, Zustand](https://www.youtube.com/watch?v=4g26x6FzuBU)
-- [Learn with me: HTMX and HonoJS](https://www.youtube.com/watch?v=hMcE6E8JjXA)
-- [Hacking the new bridgeless architecture of React Native &lpar;as of 0.73&rpar; to boost my app performance](https://www.youtube.com/watch?v=fFz034KJbWo)
-- [Desk makeover: My cozy desk setup for app development 2024](https://www.youtube.com/watch?v=rnjyMpoltLo)
 <!-- YOUTUBE:END -->
 
 ---
