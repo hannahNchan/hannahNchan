@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
-- [Nomad [E] from Work Louder #coding #asmr #keyboard](https://www.youtube.com/watch?v=gf1HP8FEPhQ)
-- [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/watch?v=YIfE39PFlNg)
+- [Nomad [E] from Work Louder #coding #asmr #keyboard](https://www.youtube.com/shorts/gf1HP8FEPhQ)
+- [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/shorts/YIfE39PFlNg)
 - [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/watch?v=Ecq2kcubTnY)
-- [Coding in nature 🏕️🧑‍💻](https://www.youtube.com/watch?v=Bp2atZL_tKI)
-- [How to build a smoothly animated table of contents &lpar;by a bonfire🔥&rpar; w/ Bun, Framer Motion, Zustand](https://www.youtube.com/watch?v=lWu-w3p1HUI)
+- [Coding in nature 🏕️🧑‍💻](https://www.youtube.com/shorts/Bp2atZL_tKI)
+- [How to build a smoothly animated table of contents &lpar;by a bonfire🔥&rpar; w/ Bun, Framer Motion, Zustand](https://www.youtube.com/shorts/lWu-w3p1HUI)
 <!-- YOUTUBE:END -->
 
 ---
