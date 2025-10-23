@@ -5,8 +5,8 @@
 
 ## Full Stack JavaScript Web Developer
 
-- 🌱 I’m currently learning everything, specially Javascript and ReactJSs
-- 🥅 2021 Goals: Portfolio / CMS
+- 🌱 I’m currently learning everything, specially Javascript, ReactJSs, Elixir and C/C++
+- 🥅 2025 / 20263 Goals: Portfolio / CMS / Many integrations
 - ⚡ Fun fact: I love programming and I love play Halo 6
 
 ### Languages and Tools:
