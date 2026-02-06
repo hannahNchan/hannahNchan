@@ -34,11 +34,11 @@
 
 ### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
 <!-- YOUTUBE:START -->
+- [I made my Keychron K2 HE stealthy](https://www.youtube.com/watch?v=uLEWCY67upo)
 - [I hacked a MagSafe stand for my iPad mini blogging setup](https://www.youtube.com/watch?v=ZfHsSpp3Sb0)
 - [Nomad [E] from Work Louder #coding #asmr #keyboard](https://www.youtube.com/shorts/gf1HP8FEPhQ)
 - [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/shorts/YIfE39PFlNg)
 - [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/watch?v=Ecq2kcubTnY)
-- [Coding in nature 🏕️🧑‍💻](https://www.youtube.com/shorts/Bp2atZL_tKI)
 <!-- YOUTUBE:END -->
 
 ---
