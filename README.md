@@ -4,20 +4,20 @@
 [![AgoraShell](https://img.shields.io/static/v1?label=AgoraShell&message=Forum&color=blueviolet&style=for-the-badge)](https://agorashell.com/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/)
 
-## Full Stack Software Engineer | CTO | AI Automation & AWS
+## I developed AgoraShell and NexusPlanner
+
+| Project | Description | Links |
+|:-|:-|:-:|
+| AgoraShell | Developer community/forum project built as one of my main products. | [Website](https://agorashell.com/) |
+| NexusPlanner | Planning/productivity project focused on organizing work and execution. | [Portfolio](https://hannah-narvaez-portfolio.netlify.app/#projects) |
+| Personal Portfolio | My web portfolio with projects, experience, and contact links. | [Website](https://hannah-narvaez-portfolio.netlify.app/) |
+
+## Full Stack Software Engineer | AI Automation & AWS
 
 - I build full-stack web products with React, Angular, Node.js, Elixir/Phoenix, and modern UI systems.
 - I automate workflows with AI connectors, AWS Lambda, CI/CD, and practical cloud services.
 - I enjoy difficult engineering problems, clean architecture, UI/UX, accessibility, and learning deeply.
 - Current focus: scalable products, integrations, CMS/platform tooling, mathematics, and AI-assisted automation.
-
-### Featured Projects
-
-| Project | Description | Links |
-|:-|:-|:-:|
-| Personal Portfolio | My web portfolio with projects, experience, and contact links. | [Website](https://hannah-narvaez-portfolio.netlify.app/) |
-| AgoraShell | Developer community/forum project. | [Website](https://agorashell.com/) |
-| NexusPlanner | Planning/productivity project focused on organizing work and execution. | [Portfolio](https://hannah-narvaez-portfolio.netlify.app/#projects) |
 
 ### Languages
 
@@ -53,7 +53,7 @@
 
 ### Experience Highlights
 
-- CTO and Sr. Software Developer at Magistrans Mexico, building scalable web architecture with Phoenix LiveView, Tailwind, Flowbite, and full-stack product systems.
+- Software Engineer at Magistrans Mexico, building scalable web architecture with Phoenix LiveView, Tailwind, Flowbite, and full-stack product systems.
 - Sr. Software Engineer Associate Manager at Accenture, working on React, Angular, Jenkins, SonarQube, AWS, unit testing, and WCAG-aligned enterprise portals.
 - Sr. Web Developer experience across banking, financial services, media, CMS platforms, REST/GraphQL APIs, SSR, Redux sagas, and UI/UX implementation.
 
