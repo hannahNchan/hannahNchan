@@ -1,82 +1,90 @@
-### Hello my name is Hannah Noelia, everybody tell me Hannah Chan  
+### Hello, my name is Hannah Noelia Narvaez Juarez
 
-[![Personal Website](https://img.shields.io/static/v1?label=Personal%20Portfolio&message=OnLine&color=success&style=for-the-badge)](http://143.244.191.139:8081/)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Personal Website](https://img.shields.io/static/v1?label=Personal%20Portfolio&message=Online&color=success&style=for-the-badge)](https://hannah-narvaez-portfolio.netlify.app/)
+[![AgoraShell](https://img.shields.io/static/v1?label=AgoraShell&message=Forum&color=blueviolet&style=for-the-badge)](https://agorashell.com/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/)
 
-## Full Stack JavaScript Web Developer
+## Full Stack Software Engineer | CTO | AI Automation & AWS
 
-- 🌱 I’m currently learning everything, specially Javascript, ReactJSs, Elixir and C/C++
-- 🥅 2025 / 2026 Goals: Portfolio / CMS / Many integrations
-- ⚡ Fun fact: I love programming and I love play Halo 6
+- I build full-stack web products with React, Angular, Node.js, Elixir/Phoenix, and modern UI systems.
+- I automate workflows with AI connectors, AWS Lambda, CI/CD, and practical cloud services.
+- I enjoy difficult engineering problems, clean architecture, UI/UX, accessibility, and learning deeply.
+- Current focus: scalable products, integrations, CMS/platform tooling, mathematics, and AI-assisted automation.
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Featured Projects
 
-<br />
-<br />
+| Project | Description | Links |
+|:-|:-|:-:|
+| Personal Portfolio | My web portfolio with projects, experience, and contact links. | [Website](https://hannah-narvaez-portfolio.netlify.app/) |
+| AgoraShell | Developer community/forum project. | [Website](https://agorashell.com/) |
+| NexusPlanner | Planning/productivity project focused on organizing work and execution. | [Portfolio](https://hannah-narvaez-portfolio.netlify.app/#projects) |
+
+### Languages
+
+<p>
+  <img alt="JavaScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Go" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img alt="C" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="PHP" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="LaTeX" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+</p>
+
+### Frameworks, Tools and Cloud
+
+<p>
+  <img alt="React" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Angular" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="Node.js" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Elixir" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+  <img alt="Phoenix" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
+  <img alt="AWS" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Docker" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Linux" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Jenkins" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="MongoDB" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="MySQL" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Figma" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
+
+### Experience Highlights
+
+- CTO and Sr. Software Developer at Magistrans Mexico, building scalable web architecture with Phoenix LiveView, Tailwind, Flowbite, and full-stack product systems.
+- Sr. Software Engineer Associate Manager at Accenture, working on React, Angular, Jenkins, SonarQube, AWS, unit testing, and WCAG-aligned enterprise portals.
+- Sr. Web Developer experience across banking, financial services, media, CMS platforms, REST/GraphQL APIs, SSR, Redux sagas, and UI/UX implementation.
 
 ---
 
-### <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />YouTube Channel
-<!-- YOUTUBE:START -->
-- [What a Japanese life principle taught me about overcoming AI fatigue](https://www.youtube.com/watch?v=-Gtbsi51sts)
-- [I made my Keychron K2 HE stealthy](https://www.youtube.com/watch?v=uLEWCY67upo)
-- [I hacked a MagSafe stand for my iPad mini blogging setup](https://www.youtube.com/watch?v=ZfHsSpp3Sb0)
-- [Nomad [E] from Work Louder #coding #asmr #keyboard](https://www.youtube.com/shorts/gf1HP8FEPhQ)
-- [How to create beautiful glowing components on React Native 0.76+](https://www.youtube.com/shorts/YIfE39PFlNg)
-<!-- YOUTUBE:END -->
+### GitHub Statistics
 
----
-
-### <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-|  GitHub Stadistics     | Top Languages |
+| GitHub Stats | Top Languages |
 |:-:|:-:|
-| [![Hannah Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahNchan&show_icons=true&title_color=D4367A&text_color=007CB8&icon_color=A35776&bg_color=C3E1EE)](https://github.com/anuraghazra/github-readme-stats)      | [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahNchan)](https://github.com/anuraghazra/github-readme-stats)       |
+| [![Hannah Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahNchan&show_icons=true&title_color=D4367A&text_color=007CB8&icon_color=A35776&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahNchan&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
 
-### My social networks:
+### Contribution Activity
+
+[![Hannah's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hannahNchan&theme=github-compact&hide_border=true&area=true)](https://github.com/hannahNchan)
+
+### My Social Networks
+
 <a target="_blank" href="https://www.linkedin.com/in/hannah-noelia-narvaez-juarez/">
-  <img align="left" alt="LinkdeIN" width="22px" src="./icons/linkedin_icon.png" />
+  <img align="left" alt="LinkedIn" width="24px" src="./icons/linkedin_icon.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5574259504">
-  <img align="left" alt="Whatsapp" width="22px" src="./icons/whatsapp_icon.png" />
+<a target="_blank" href="https://www.instagram.com/hannitahchan/">
+  <img align="left" alt="Instagram" width="24px" src="./icons/instagram_icon.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/hannah.n.chan">
-  <img align="left" alt="Instagram" width="22px" src="./icons/instagram_icon.svg" />
+<a target="_blank" href="https://www.youtube.com/@HannitahChan">
+  <img align="left" alt="YouTube" width="24px" src="./icons/youtube_icon.svg" />
 </a>
-<a target="_blank" href="https://dev.to/hannahchan">
-  <img align="left" alt="Devto" width="22px" src="./icons/dev_icon.png" />
+<a target="_blank" href="https://www.facebook.com/hannah.n.chan/">
+  <img align="left" alt="Facebook" width="24px" src="./icons/facebook_icon.svg" />
 </a>
 <a target="_blank" href="mailto:hannah.n.narvaezj@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="./icons/google_icon.svg" />
+  <img align="left" alt="Email" width="24px" src="./icons/google_icon.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/hannah.n.chan">
-  <img align="left" alt="Facebook" width="22px" src="./icons/facebook_icon.svg" />
-</a>
-<a target="_blank" href="https://www.youtube.com/channel/UCYCwiRVgRfiDQKLw8iztFXA">
-  <img align="left" alt="Gmail" width="22px" src="./icons/youtube_icon.svg" />
-</a>
+
+<br />
