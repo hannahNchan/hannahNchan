@@ -59,6 +59,12 @@
 
 ---
 
+### GitHub Statistics
+
+| GitHub Stats | Top Languages |
+|:-:|:-:|
+| ![Hannah Chan's GitHub stats](./assets/github-stats.svg) | ![Top Languages](./assets/top-languages.svg) |
+
 ### Contribution Activity
 
 [![Hannah's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hannahNchan&theme=github-compact&hide_border=true&area=true)](https://github.com/hannahNchan)

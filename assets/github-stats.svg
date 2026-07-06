@@ -1,0 +1,16 @@
+<svg width="420" height="170" viewBox="0 0 420 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hannah Chan GitHub stats</title>
+  <desc id="desc">Static GitHub profile stats card for Hannah Chan.</desc>
+  <rect width="420" height="170" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="419" height="169" rx="7.5" stroke="#30363d"/>
+  <text x="24" y="36" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Hannah Chan's GitHub</text>
+  <text x="24" y="64" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Public engineering profile</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">
+    <circle cx="32" cy="96" r="4" fill="#D4367A"/>
+    <text x="48" y="101" fill="#c9d1d9">42 public repositories</text>
+    <circle cx="32" cy="122" r="4" fill="#007CB8"/>
+    <text x="48" y="127" fill="#c9d1d9">Full-stack, cloud and AI automation</text>
+    <circle cx="32" cy="148" r="4" fill="#A35776"/>
+    <text x="48" y="153" fill="#c9d1d9">React, Angular, Elixir/Phoenix, AWS</text>
+  </g>
+</svg>
