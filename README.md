@@ -59,12 +59,6 @@
 
 ---
 
-### GitHub Statistics
-
-| GitHub Stats | Top Languages |
-|:-:|:-:|
-| [![Hannah Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahNchan&show_icons=true&title_color=D4367A&text_color=007CB8&icon_color=A35776&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahNchan&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
-
 ### Contribution Activity
 
 [![Hannah's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hannahNchan&theme=github-compact&hide_border=true&area=true)](https://github.com/hannahNchan)
